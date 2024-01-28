@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.05652b72.css",
-    "main.js": "/react-portfolio/static/js/main.cf95f85b.js",
+    "main.js": "/react-portfolio/static/js/main.dd413ef6.js",
     "static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.jpeg": "/react-portfolio/static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.ccb3b9cd4d93603681f3.jpeg",
     "static/media/Screen Shot 2023-01-31 at 12.51.36 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.51.36 AM.5f0adb110f1440b4cc4f.png",
     "static/media/Screen Shot 2023-01-31 at 12.58.09 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.58.09 AM.ddeb9cc81a6fb88e7314.png",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.05652b72.css",
-    "static/js/main.cf95f85b.js"
+    "static/js/main.dd413ef6.js"
   ]
 }
