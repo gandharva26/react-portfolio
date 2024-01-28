@@ -20,16 +20,16 @@ const Headermain = () => {
     <>
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
-          <Link  className="navbar-brand nav_ac" to="/">
+          <a   className="navbar-brand nav_ac" href="/">
             {logotext}
 
-          </Link>
+          </a> 
           <div id={screenType.isMobile ? "Mobile" : ""} style = {{ display:'flex', marginLeft :'0', marginRight:'auto'}}>
-          <Link   to="/" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>HOME</Link>
-          <Link  to="/portfolio" className="my-3" style = {{margin:'2%', textDecoration:'None'}}> PORTFOLIO</Link>
-          <Link to="/experience" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>EXPERIENCE</Link>
-          <Link  to="/about" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>ABOUT</Link>   
-          <Link to="/contact" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>CONTACT</Link>
+          <a    href="/" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>HOME</a> 
+          <a   href="/portfolio" className="my-3" style = {{margin:'2%', textDecoration:'None'}}> PORTFOLIO</a> 
+          <a  href="/experience" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>EXPERIENCE</a> 
+          <a   href="/about" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>ABOUT</a>    
+          <a  href="/contact" className="my-3" style = {{margin:'2%', textDecoration:'None'}}>CONTACT</a> 
   
        
           </div>
@@ -49,20 +49,20 @@ const Headermain = () => {
               <div className="menu__container p-3">
                 <ul className="the_menu">
                   <li className="menu_item ">
-                  <Link  onClick={handleToggle} to="/" className="my-3">Home</Link>
+                  <a   onClick={handleToggle} href="/" className="my-3">Home</a> 
                   </li>
                   <li className="menu_item">
-                    <Link  onClick={handleToggle} to="/portfolio" className="my-3"> Portfolio</Link>
+                    <a   onClick={handleToggle} href="/portfolio" className="my-3"> Portfolio</a> 
                   </li>
                   <li className="menu_item">
-                  <Link onClick = {handleToggle} to="/experience" className="my-3">Experience</Link>
+                  <a  onClick = {handleToggle} href="/experience" className="my-3">Experience</a> 
             
                   </li>
                   <li className="menu_item">
-                  <Link onClick={handleToggle} to="/contact" className="my-3"> Contact</Link>
+                  <a  onClick={handleToggle} href="/contact" className="my-3"> Contact</a> 
                   </li>
                   <li className="menu_item">
-                  <Link onClick={handleToggle} to="/about" className="my-3">About</Link>
+                  <a  onClick={handleToggle} href="/about" className="my-3">About</a> 
                   </li>
                 </ul>
               </div>
