@@ -20,11 +20,14 @@ const ScrollToTop = withRouter(_ScrollToTop);
 
 export default function App() {
   return (
-    <Router basename='react-portfolio'>
+    <Router basename='/'>
+      
       <ScrollToTop>
         <Headermain />
         <AppRoutes />
       </ScrollToTop>
+     
+    
       </Router>
   );
 }
