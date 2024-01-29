@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.05652b72.css",
-    "main.js": "/react-portfolio/static/js/main.3d360306.js",
-    "static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.jpeg": "/react-portfolio/static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.ccb3b9cd4d93603681f3.jpeg",
-    "static/media/Screen Shot 2023-01-31 at 12.51.36 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.51.36 AM.5f0adb110f1440b4cc4f.png",
-    "static/media/Screen Shot 2023-01-31 at 12.58.09 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.58.09 AM.ddeb9cc81a6fb88e7314.png",
-    "static/media/jski.png": "/react-portfolio/static/media/jski.1833b79ab1b6016bf2ba.png",
-    "static/media/Screen Shot 2023-01-31 at 12.40.00 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.40.00 AM.fca91c0265162cee2c9d.png",
-    "static/media/K95J2hrW.png": "/react-portfolio/static/media/K95J2hrW.bdeecd7ad55d31c2b8d6.png",
-    "static/media/port.png": "/react-portfolio/static/media/port.5f0d9b8b0332de969b8d.png",
-    "static/media/nyc.jpeg": "/react-portfolio/static/media/nyc.43028b2c5f07e91d136e.jpeg",
-    "static/media/ucr.png": "/react-portfolio/static/media/ucr.db7d1e78c27b21dd9d70.png",
-    "static/media/xoriant.webp": "/react-portfolio/static/media/xoriant.0ad94c3a01f7fe74fbd3.webp",
-    "index.html": "/react-portfolio/index.html"
+    "main.css": "/static/css/main.05652b72.css",
+    "main.js": "/static/js/main.3d47d0d0.js",
+    "static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.jpeg": "/static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.ccb3b9cd4d93603681f3.jpeg",
+    "static/media/Screen Shot 2023-01-31 at 12.51.36 AM.png": "/static/media/Screen Shot 2023-01-31 at 12.51.36 AM.5f0adb110f1440b4cc4f.png",
+    "static/media/Screen Shot 2023-01-31 at 12.58.09 AM.png": "/static/media/Screen Shot 2023-01-31 at 12.58.09 AM.ddeb9cc81a6fb88e7314.png",
+    "static/media/jski.png": "/static/media/jski.1833b79ab1b6016bf2ba.png",
+    "static/media/Screen Shot 2023-01-31 at 12.40.00 AM.png": "/static/media/Screen Shot 2023-01-31 at 12.40.00 AM.fca91c0265162cee2c9d.png",
+    "static/media/K95J2hrW.png": "/static/media/K95J2hrW.bdeecd7ad55d31c2b8d6.png",
+    "static/media/port.png": "/static/media/port.5f0d9b8b0332de969b8d.png",
+    "static/media/nyc.jpeg": "/static/media/nyc.43028b2c5f07e91d136e.jpeg",
+    "static/media/ucr.png": "/static/media/ucr.db7d1e78c27b21dd9d70.png",
+    "static/media/xoriant.webp": "/static/media/xoriant.0ad94c3a01f7fe74fbd3.webp",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.05652b72.css",
-    "static/js/main.3d360306.js"
+    "static/js/main.3d47d0d0.js"
   ]
 }
