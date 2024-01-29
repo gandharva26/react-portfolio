@@ -21,7 +21,7 @@ const ScrollToTop = withRouter(_ScrollToTop);
 
 export default function App() {
   return (
-    <HashRouter basename='/'>
+    <HashRouter basename="/">
       <ScrollToTop>
         <Headermain />
         <AppRoutes />
