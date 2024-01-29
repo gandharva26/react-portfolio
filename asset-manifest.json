@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.05652b72.css",
+    "main.css": "/react-portfolio/static/css/main.cd61e022.css",
     "main.js": "/react-portfolio/static/js/main.e2752d11.js",
     "static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.jpeg": "/react-portfolio/static/media/WhatsApp Image 2022-12-30 at 7.38.04 PM.ccb3b9cd4d93603681f3.jpeg",
     "static/media/Screen Shot 2023-01-31 at 12.51.36 AM.png": "/react-portfolio/static/media/Screen Shot 2023-01-31 at 12.51.36 AM.5f0adb110f1440b4cc4f.png",
@@ -15,7 +15,7 @@
     "index.html": "/react-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.05652b72.css",
+    "static/css/main.cd61e022.css",
     "static/js/main.e2752d11.js"
   ]
 }
