@@ -141,12 +141,6 @@ const dataportfolio = [{
 
 
 export const ProjectList = [
-    {
-        name:"Health-Care Website",
-        image:arlekar,
-        skills:"Developed a health care website for a Client to help patients book appointments faster.",
-        link:'https://www.drarlekarswellnessclinic.com'
-    },
 
     {
       name: "JsonSki",
