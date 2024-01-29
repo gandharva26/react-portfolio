@@ -61,11 +61,13 @@
     height: calc(100% - 30px);
     width: calc(100% - 30px);
     opacity: 1;
+    z-index: 0;
 }
 
 .po_item:hover .content {
     opacity: 1;
     color: var(--secondary-color);
+    z-index: 0;
 }
 
 .po_item .content a {
