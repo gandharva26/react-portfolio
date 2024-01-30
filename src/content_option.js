@@ -1,10 +1,10 @@
-import Proj2 from "././assets/products/GitHub-Mark.png";
-import arlekar from '././assets/products/Screen Shot 2023-01-31 at 12.40.00 AM.png'
-import amaz from '././assets/products/Screen Shot 2023-01-31 at 12.51.36 AM.png'
+
+import sales from '././assets/images/sales.png'
+import bank from '././assets/images/bank.jpeg'
+import sql from '././assets/images/sql.png'
 import drows from '././assets/products/Screen Shot 2023-01-31 at 12.58.09 AM.png'
 import jski from '././assets/products/jski.png'
-import nyc from '././assets/products/nyc.jpeg'
-import port from '././assets/products/port.png'
+
 const logotext = "GD";
 const meta = {
     title: "Gandharva Deshpande",
@@ -157,7 +157,30 @@ export const ProjectList = [
       skills: "A drowsy driver is detected in real-time based on Eye distance and Yawning over a period of time",
       link:'https://github.com/gandharva26/Driver-Drowsiness-Detection'
     },
-  
+
+
+      {
+        name: "SQL Injection - Research",
+        image: sql,
+        skills: "Research paper on modern and state of art techniques",
+        link:'https://github.com/gandharva26/SQLIA-detection-analysis-research-paper'
+      },
+    
+      {
+        name: "Bank Defaulter Prediction",
+        image: bank,
+        skills: "Predict the probability of a customer defaulting",
+        link:'https://github.com/gandharva26/Bank-defaulter-prediction'
+      },
+    
+      {
+        name: "Sales Prediction for OLIST",
+        image: sales,
+        skills: "Time series prediction using statistics & Machine Learning",
+        link:'https://github.com/gandharva26/Sales-Prediction-using-Machine-Learning-and-Statistics'
+      },
+    
+    
   
   
 ];  
