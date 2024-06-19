@@ -3,7 +3,6 @@
 A simple portfolio template for developer/designers built with React. 
 
 
-
 ### Features
 
 - Fully Responsive
